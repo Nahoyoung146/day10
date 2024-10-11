@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class LoginService03 {
 	private LoginDTO03 dto;
 
-	LoginService03() {
+	public LoginService03() {
 		dto = new LoginDTO03();
 	}
 
